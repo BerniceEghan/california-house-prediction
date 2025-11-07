@@ -9,10 +9,6 @@ This project implements a comprehensive machine learning pipeline for predicting
 
 Predicting median house values in California districts based on various demographic, geographic, and housing characteristics. 
 
-##  Dataset Description
-
-##  Technical Stack
-
 ### Core Libraries and Tools:
 - **pandas** & **numpy**: Data manipulation and numerical computations
 - **scikit-learn**: Machine learning models and preprocessing
